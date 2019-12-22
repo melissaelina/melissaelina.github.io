@@ -308,3 +308,27 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+
+.otherhead{
+  position:relative;width:100%;
+  height:auto;min-height:25rem;
+  padding:10rem 0;background:linear-gradient(to bottom,rgba(22,22,22,.3) 0,rgba(22,22,22,.7) 75%,#161616 100%),url(../img/melissa_vacation.jpg);
+  background-position:center;background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:cover}
+
+  .blankhead{
+    position:relative;width:100%;
+    height:auto;min-height:20rem;
+    padding:10rem 0;background:linear-gradient(to bottom,rgba(22,22,22,.3) 0,rgba(22,22,22,.7) 75%,#161616 100%);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+    background-size:cover}
+
+    .designhead{
+      position:relative;width:100%;height:auto;min-height:25rem;padding:10rem 0;background:linear-gradient(to bottom,rgba(22,22,22,.3) 0,rgba(22,22,22,.7) 75%,#161616 100%),url(../img/forest_close.jpg);
+      background-position:center;
+      background-repeat:no-repeat;
+      background-attachment:scroll;
+      background-size:cover}
