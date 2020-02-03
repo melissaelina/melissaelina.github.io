@@ -369,3 +369,8 @@ footer {
   }
 }
 
+@media (max-width: 992px) {
+.column_5 {
+    width: 100%;
+  }
+}
