@@ -353,6 +353,14 @@ footer {
   height:40%;
 }
 
+.highlight {
+  background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #C1666B 50%);
+} 
+/*#FFD0AE*/
+
+.head_big {
+  font: 'Nunito', 'sans-serif';
+}
 
 .carousel-indicators {
     position: static;
