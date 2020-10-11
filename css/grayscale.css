@@ -310,6 +310,40 @@ footer {
   padding: 5rem 0;
 }
 
+.project {
+  /*background-color: lightgrey;*/
+  /*background-image: url("img/test_background.png");*/
+
+  width: 80%;
+  border: 1px solid black;
+  padding: 25px;
+  margin: 20px;
+
+}
+.proj-background{
+  background-image: url("../img/test_background.png");
+}
+
+.h1-proj {
+  font-family: Playfair Display;
+  /*font-style:*/
+  font-size: 64px;
+/*Font Size: 64px
+Line Height: 85px
+Line Height: 100%*/
+
+}
+
+.p-proj {
+  font-family: Playfair Display;
+  /*font-style:*/
+  font-size: 16px;
+/*Font Size: 64px
+Line Height: 85px
+Line Height: 100%*/
+
+}
+
 .otherhead{
   position:relative;width:100%;
   height:auto;min-height:25rem;
